@@ -3,3 +3,4 @@
 datasets/coco/labels/YOLODataset/
 */__pycache__/*
 *.pt
+/runs
