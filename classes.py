@@ -1,7 +1,7 @@
 import random
 from color_convert import *
 
-classNames = ["A", "B", "C", "D", "E", "F", "G", "H", "HOLA", "I", "J", "K", "L", "LOVE", "M", "N", "NEGRO", "NO", "O", "P", "Q", "R", "S", "SÍ", "T", "U", "V", "W", "X", "Y"]
+classNames = ["A", "B", "BRONZE", "C", "D", "E", "F", "G", "H", "HOLA", "I", "J", "K", "L", "LOVE", "M", "N", "NEGRO", "NO", "O", "P", "Q", "R", "S", "SÍ", "T", "U", "V", "W", "X", "Y"]
 classColors = {}
 
 
