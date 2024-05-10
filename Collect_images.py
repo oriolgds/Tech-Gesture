@@ -24,13 +24,13 @@ IMAGES_PATH = 'datasets/coco/images'
 # In[3]:
 
 
-abecedary = "en"
+abecedary = "g"
 labels = [*abecedary]
-labels = ['miercoles']
+labels = ['love', 'c']
 
 print(labels)
-number_imgs = 50
-waitTime = 200
+number_imgs = 20
+waitTime = 1000
 firstWaitTime = 1000
 
 # ### Useful functions
