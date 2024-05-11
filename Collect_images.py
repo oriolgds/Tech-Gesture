@@ -24,15 +24,9 @@ IMAGES_PATH = 'datasets/coco/images'
 # In[3]:
 
 
-<<<<<<< HEAD
 #abecedary = "g"
 #labels = [*abecedary]
 labels = ['trabajar']
-=======
-abecedary = "g"
-labels = [*abecedary]
-labels = ['escribir']
->>>>>>> 6a6573e915be0c40fd7f10c901c06008d4868024
 
 print(labels)
 number_imgs = 20
