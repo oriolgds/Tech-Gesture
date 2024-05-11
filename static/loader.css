@@ -13,6 +13,7 @@
 	animation-delay: 0s, 6s;
 	animation-iteration-count: infinite, 1;
 	animation-fill-mode: forwards, forwards;
+	z-index: 1000;
 
 }
 @keyframes background-loader {

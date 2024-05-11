@@ -1,8 +1,10 @@
 
+function resize(){
+	const predictionShow = document.getElementById('predictions-show');
+	predictionShow.style.maxHeight = `${window.innerHeight - 150}px`;
+}
 
-
-
-window.onload = ()=>{
-	const predictionContainer = document.getElementById('prediction-container');
-	predictionContainer.style.height = 50;
+resize();
+window.onresize = ()=>{
+	resize();
 }
