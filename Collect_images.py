@@ -26,7 +26,7 @@ IMAGES_PATH = 'datasets/coco/images'
 
 abecedary = "g"
 labels = [*abecedary]
-labels = ['si', 'no']
+labels = ['gracias']
 
 print(labels)
 number_imgs = 20
