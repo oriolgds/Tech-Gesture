@@ -17,6 +17,7 @@ eel.start('index.html', size=(1000, 600), block=False)
 while True:
     success, frame = cap.read()
     results = model(frame, stream=True)
+    detectedClasses = []
     for r in results:
         boxes = r.boxes
         for box in boxes:
@@ -33,7 +34,11 @@ while True:
             thickness = 2
             cv2.putText(frame, str(classNames[cls]), org, font, fontScale, color, thickness)
             cv2.putText(frame, str(confidence), [x2 - 70, y1 - 5], font, fontScale, color, thickness)
+            detectedClasses.append(str(classNames[cls]))
     _, img_encoded = cv2.imencode('.jpg', frame)
     encoded_img_base64 = base64.b64encode(img_encoded.tobytes()).decode('utf-8')
-    response = {'message': 'Image processed successfully', 'predictions_image': encoded_img_base64}
+    response = {'message': 'Image processed successfully',
+                'predictions_image': encoded_img_base64,
+                'detectedClasses': detectedClasses
+                }
     eel.fetchImage(response)()
