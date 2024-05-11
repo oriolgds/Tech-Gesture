@@ -8,14 +8,12 @@ from ultralytics import YOLO
 from classes import classColors, classNames
 
 cap = cv2.VideoCapture(0)
-model = YOLO("runs/detect/Sausage1.3/weights/best.pt", verbose=False)
-
+model = YOLO("runs/detect/Sausage1.5/weights/best.pt", verbose=False)
+model.cuda()
 
 eel.init('static')
-eel.start('index.html', size=(1000, 600))
+eel.start('index.html', size=(1000, 600), block=False)
 
-
-#model.cuda()
 
 
 
@@ -43,4 +41,3 @@ while True:
     response = {'message': 'Image processed successfully', 'predictions_image': encoded_img_base64}
     eel.fetchImage(response)()
     cv2.imshow(frame)
-
