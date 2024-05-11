@@ -6,7 +6,6 @@
 	border-radius: 20px;
 	border: 1px solid rgba( 255, 255, 255, 0.18 );
 	padding: 10px;
-	display: flex;
   justify-content: center;
   align-items: center;
   height: calc(100vh - 40px);
@@ -25,4 +24,12 @@ background-color: #e6e6e6;
 	height: 100px;
 	bottom: 12px;
 	right: 12px;
+}
+#subtitles {
+	height: 60px;
+	background-color: #e2e2e2;
+	width: 100%;
+}
+#prediction-container {
+	width: 100%;
 }
