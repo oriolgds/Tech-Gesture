@@ -4,7 +4,7 @@
 1. Este proyecto usa Python 3.11 (Virtual venv recomendado)
 2. Instala las dependencias necesarias
 ```
-pip install ultralytics jupyter opencv-contrib-python labelme labelme2yolo torch torchvision streamlit cryptography eel
+pip install ultralytics jupyter opencv-contrib-python labelme labelme2yolo streamlit cryptography eel
 ```
 ### ¿Qué hace cada archivo??
 * Collect_images.py sirve para capturar imagenes
