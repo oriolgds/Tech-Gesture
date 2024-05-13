@@ -26,10 +26,10 @@ IMAGES_PATH = 'datasets/coco/images'
 
 #abecedary = ""
 #labels = [*abecedary]
-labels = ['trabajar']
+labels = ['jueves']
 
 print(labels)
-number_imgs = 50
+number_imgs = 50 - 16
 waitTime = 500
 firstWaitTime = 3000
 
