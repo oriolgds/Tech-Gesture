@@ -30,6 +30,8 @@ labels = [*abecedary]
 labels.append('escribir')
 labels.append('querer')
 labels.append('techgesture')
+labels = ['angustia', 'bronze']
+labels = ['techgesture']
 print(labels)
 number_imgs = 20
 waitTime = 1000
