@@ -5,7 +5,67 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9668174a-9947-48fb-a832-05b85b4d7830" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/angustia.1715632223.6333497.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/angustia.1715632224.6532109.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/angustia.1715632225.6743193.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/angustia.1715632226.6875076.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/angustia.1715632227.7019134.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/angustia.1715632228.7145326.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/angustia.1715632229.7249234.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/angustia.1715632230.7353415.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/angustia.1715632231.7584932.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/angustia.1715632232.7715602.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/angustia.1715632233.7818465.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/angustia.1715632234.7943754.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/angustia.1715632235.8143537.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/angustia.1715632236.8327193.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/angustia.1715632237.845594.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/angustia.1715632238.854677.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/angustia.1715632239.871834.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/angustia.1715632240.8925762.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/angustia.1715632241.9058278.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/angustia.1715632242.9184709.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/bronze.1715632256.792408.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/bronze.1715632257.8133473.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/bronze.1715632258.8254795.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/bronze.1715632259.8378851.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/bronze.1715632260.8496213.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/bronze.1715632261.8642359.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/bronze.1715632262.874321.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/bronze.1715632263.898489.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/bronze.1715632264.9087765.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/bronze.1715632265.934885.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/bronze.1715632266.9587467.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/bronze.1715632267.9810567.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/bronze.1715632268.9912033.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/bronze.1715632270.0049298.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/bronze.1715632271.027944.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/bronze.1715632272.038529.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/bronze.1715632273.04813.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/bronze.1715632274.064063.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/bronze.1715632275.0844796.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/bronze.1715632276.093868.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/techgesture.1715632327.1027188.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/techgesture.1715632328.125555.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/techgesture.1715632329.1402225.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/techgesture.1715632330.1588476.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/techgesture.1715632331.1741688.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/techgesture.1715632332.1898844.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/techgesture.1715632333.2027004.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/techgesture.1715632334.2147412.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/techgesture.1715632335.2268279.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/techgesture.1715632336.23679.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/techgesture.1715632337.249581.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/techgesture.1715632338.259177.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/techgesture.1715632339.2737896.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/techgesture.1715632340.2903676.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/techgesture.1715632341.3122602.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/techgesture.1715632342.3310418.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/techgesture.1715632343.3397894.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/techgesture.1715632344.3573453.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/techgesture.1715632345.3705068.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/techgesture.1715632346.380717.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collect_images.py" beforeDir="false" afterPath="$PROJECT_DIR$/Collect_images.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,19 +99,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Python.Collect_images.executor": "Run",
-    "Python.camera.executor": "Run",
-    "Python.detect2.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Github"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python.Collect_images.executor&quot;: &quot;Run&quot;,
+    &quot;Python.camera.executor&quot;: &quot;Run&quot;,
+    &quot;Python.detect2.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Github&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
