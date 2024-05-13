@@ -5,27 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9668174a-9947-48fb-a832-05b85b4d7830" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/datasets/coco/images/a.1715621555.3315222.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/coco/images/a.1715621556.0450158.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/coco/images/a.1715621556.7598429.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/coco/images/a.1715621557.4864964.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/coco/images/a.1715621558.2056537.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/coco/images/a.1715621558.9142778.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/coco/images/a.1715621559.639315.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/coco/images/a.1715621560.348758.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/coco/images/a.1715621561.0652251.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/coco/images/a.1715621561.7879717.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/coco/images/a.1715621562.5089371.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/coco/images/a.1715621563.2265418.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/coco/images/a.1715621563.9469883.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/coco/images/a.1715621564.6656902.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/coco/images/a.1715621565.3784564.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/coco/images/a.1715621566.0859835.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/coco/images/a.1715621566.795598.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/coco/images/a.1715621567.5061848.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/coco/images/a.1715621568.226995.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/coco/images/a.1715621568.9363863.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collect_images.py" beforeDir="false" afterPath="$PROJECT_DIR$/Collect_images.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
