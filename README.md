@@ -43,5 +43,5 @@ yolo train resume model=runs/detect/train22/weights/last.pt data=datasets/coco/l
 ```
 ### Add new images to a pretrained model
 ```
-yolo detect train data=datasets/coco/labels/YOLODataset/dataset.yaml model=yolov8l.pt pretrained=runs/detect/Sausage1.5/weights/best.pt time=2 name=Sausage1.6
+yolo detect train data=datasets/coco/labels/YOLODataset/dataset.yaml model=yolov8l.pt pretrained=runs/detect/Everest1.1/weights/best.pt time=10 name=Everest1.2
 ```
