@@ -5,94 +5,90 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="925bab87-8189-4ef5-a58a-aea0e40a50de" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/datasets/coco/images/h.1715718652.9250884.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/coco/images/h.1715718653.4412222.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/coco/images/h.1715718653.9539156.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/coco/images/h.1715718654.475463.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/coco/images/h.1715718654.98863.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/coco/images/h.1715718655.5019734.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/coco/images/h.1715718656.0257356.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/coco/images/h.1715718656.5503628.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/coco/images/h.1715718657.0754132.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/coco/images/h.1715718657.5847738.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/coco/images/h.1715718658.099458.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/coco/images/h.1715718658.6140924.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/coco/images/h.1715718659.1230748.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/coco/images/h.1715718659.6397858.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/coco/images/h.1715718660.1657922.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/coco/images/h.1715718660.6821773.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/coco/images/h.1715718661.194949.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/coco/images/h.1715718661.7088623.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/coco/images/h.1715718662.223968.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/coco/images/h.1715718662.7419968.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/coco/images/h.1715718663.2589345.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/coco/images/h.1715718663.7868965.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/coco/images/h.1715718664.3106756.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/coco/images/h.1715718664.8330042.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/coco/images/h.1715718665.3520427.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/coco/images/h.1715718665.8735363.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/coco/images/h.1715718666.391331.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/coco/images/h.1715718666.9160964.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/coco/images/h.1715718667.4306407.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/coco/images/h.1715718667.9568753.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/coco/images/h.1715718668.467794.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/coco/images/h.1715718668.9911265.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/coco/images/h.1715718669.5079582.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/coco/images/h.1715718670.0238926.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/coco/images/h.1715718670.5358822.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/coco/images/h.1715718671.0508032.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/coco/images/h.1715718671.5673928.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/coco/images/h.1715718672.0893335.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/coco/images/h.1715718672.6060073.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/coco/images/h.1715718673.120245.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/coco/images/h.1715718673.634082.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/coco/images/h.1715718674.1555283.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/coco/images/h.1715718674.6659727.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/coco/images/h.1715718675.182019.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/coco/images/h.1715718675.6905477.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/coco/images/h.1715718676.2064073.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/coco/images/h.1715718676.7150452.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/coco/images/h.1715718677.2236392.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/coco/images/h.1715718677.7396133.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/coco/images/h.1715718678.25359.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/coco/images/h.1715718678.7747715.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/coco/images/h.1715718679.290271.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/coco/images/h.1715718679.8088553.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/coco/images/h.1715718680.3381581.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/coco/images/h.1715718680.8457034.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/coco/images/h.1715718681.3611646.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/coco/images/h.1715718681.8741512.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/coco/images/h.1715718682.3920827.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/coco/images/h.1715718682.9026272.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/coco/images/h.1715718683.4159505.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/coco/images/h.1715718683.930518.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/coco/images/h.1715718684.4431667.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/coco/images/h.1715718684.9535234.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/coco/images/h.1715718685.467209.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/coco/images/h.1715718685.981303.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/coco/images/h.1715718686.4902318.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/coco/images/h.1715718687.0090096.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/coco/images/h.1715718687.5249581.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/coco/images/h.1715718688.0522475.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/coco/images/h.1715718688.5686033.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/coco/images/h.1715718689.077953.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/coco/images/h.1715718689.5970225.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/coco/images/h.1715718690.1118388.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/coco/images/h.1715718690.6383817.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/coco/images/h.1715718691.1645155.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/coco/images/h.1715718691.6733816.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/coco/images/h.1715718692.185487.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/coco/images/h.1715718692.7065835.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/coco/images/h.1715718693.2316365.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/coco/images/h.1715718693.7458746.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/subtitles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/m.1715719411.2559397.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/m.1715719411.7789865.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/m.1715719412.2944925.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/m.1715719412.8067126.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/m.1715719413.3142698.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/m.1715719413.830066.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/m.1715719414.339518.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/m.1715719414.8551369.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/m.1715719415.3755114.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/m.1715719415.8906636.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/m.1715719416.4095578.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/m.1715719416.9542613.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/m.1715719417.474053.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/m.1715719417.9954896.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/m.1715719418.5084558.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/m.1715719419.0221062.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/m.1715719419.534996.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/m.1715719420.0552406.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/m.1715719420.5742383.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/m.1715719421.0960279.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/m.1715719421.610633.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/m.1715719422.135562.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/m.1715719422.644888.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/m.1715719423.1585479.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/m.1715719423.6705537.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/m.1715719424.186296.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/m.1715719424.698432.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/m.1715719425.2128153.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/m.1715719425.727259.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/m.1715719426.238154.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/m.1715719426.7510014.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/m.1715719427.2642462.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/m.1715719427.779101.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/m.1715719428.2902465.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/m.1715719428.8081982.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/m.1715719429.319166.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/m.1715719429.8340278.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/m.1715719430.3502135.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/m.1715719430.8659446.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/m.1715719431.382191.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/m.1715719431.898581.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/m.1715719432.4112208.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/m.1715719432.9269226.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/m.1715719433.445593.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/m.1715719433.9552674.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/m.1715719434.4644468.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/m.1715719434.9782345.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/m.1715719435.494446.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/m.1715719436.0144534.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/m.1715719436.5352094.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/m.1715719437.0516565.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/m.1715719437.5702226.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/m.1715719438.0782807.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/m.1715719438.5927522.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/m.1715719439.1066494.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/m.1715719439.6215749.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/m.1715719440.1400685.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/m.1715719440.6514096.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/m.1715719441.1727443.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/m.1715719441.6899366.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/m.1715719442.2021575.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/m.1715719442.714323.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/m.1715719443.2290716.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/m.1715719443.7463737.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/m.1715719444.2578247.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/m.1715719444.772004.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/m.1715719445.2876053.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/m.1715719445.7981539.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/m.1715719446.3076582.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/m.1715719446.8265798.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/m.1715719447.3445513.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/m.1715719447.8700945.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/m.1715719448.3818002.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/m.1715719448.8949366.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/m.1715719449.4142814.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/m.1715719449.9328861.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/m.1715719450.4544506.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/m.1715719450.9632833.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/m.1715719451.4781084.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/coco/images/m.1715719451.9914212.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Tech-Gesture.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Tech-Gesture.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Collect_images.py" beforeDir="false" afterPath="$PROJECT_DIR$/Collect_images.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/detect2.py" beforeDir="false" afterPath="$PROJECT_DIR$/detect2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eelServer.py" beforeDir="false" afterPath="$PROJECT_DIR$/eelServer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/camera.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/camera.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,21 +98,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "oriolgds"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;oriolgds&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/oriolgds/Tech-Gesture.git",
-    "accountId": "f36f2896-2fcd-4e11-b59a-39329da0022f"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/oriolgds/Tech-Gesture.git&quot;,
+    &quot;accountId&quot;: &quot;f36f2896-2fcd-4e11-b59a-39329da0022f&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2gTKgtTBVEG72rLEEENKk9A53YB" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -125,16 +121,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Python.Collect_images.executor": "Run",
-    "Python.eelServer.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python.Collect_images.executor&quot;: &quot;Run&quot;,
+    &quot;Python.eelServer.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
