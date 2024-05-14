@@ -26,16 +26,16 @@ IMAGES_PATH = 'datasets/coco/images'
 
 #abecedary = "dfwkxsghrui"
 #labels = [*abecedary]
-labels = ['m']
+labels = ['f']
 #labels.append('escribir')
 #labels.append('querer')
 #labels.append('techgesture')
 #labels = ['angustia', 'bronze']
 #labels = ['techgesture']
 print(labels)
-number_imgs = 80
-waitTime = 500
-firstWaitTime = 2000
+number_imgs = 50
+waitTime = 200
+firstWaitTime = 1000
 
 # ### Useful functions
 

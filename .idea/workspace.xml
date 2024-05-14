@@ -4,6 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< Updated upstream
     <list default="true" id="925bab87-8189-4ef5-a58a-aea0e40a50de" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/datasets/coco/images/m.1715719411.2559397.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/datasets/coco/images/m.1715719411.7789865.jpg" afterDir="false" />
@@ -89,6 +90,10 @@
       <change beforePath="$PROJECT_DIR$/.idea/Tech-Gesture.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Tech-Gesture.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Collect_images.py" beforeDir="false" afterPath="$PROJECT_DIR$/Collect_images.py" afterDir="false" />
+=======
+    <list default="true" id="9668174a-9947-48fb-a832-05b85b4d7830" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+>>>>>>> Stashed changes
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
