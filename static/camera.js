@@ -4,9 +4,9 @@ const predictionsImage = document.getElementById('predictions-show');
 let detectedLetters = [];
 
 // Función para verificar el tiempo de detección de las letras
-function checkDetectedLetters() {
+function checkDetectedLetters(timeElapsed) {
     detectedLetters.forEach(letterObj => {
-        if (letterObj.elapsedTime >= 2) {
+        if (timeElapsed - letterObj.elapsedTime >= 2) {
             showInSubtitles(letterObj.letter);
         }
     });
@@ -29,15 +29,15 @@ function fetchImage(jsonData) {
         const existingLetterIndex = detectedLetters.findIndex(obj => obj.letter === letter);
         if (existingLetterIndex !== -1) {
             // Actualizar el tiempo para la letra existente
-            detectedLetters[existingLetterIndex].elapsedTime += jsonData.elapsedTime;
+            detectedLetters[existingLetterIndex].elapsedTime = jsonData.elapsedTime - detectedLetters[existingLetterIndex].elapsedTime;
         } else {
             // Agregar una nueva letra con su tiempo de detección
             detectedLetters.push({ letter: letter, elapsedTime: jsonData.elapsedTime });
         }
     });
-
+    console.log(detectedLetters)
     // Verificar las letras detectadas y limpiar las no detectadas
-    checkDetectedLetters();
+    checkDetectedLetters(jsonData.elapsedTime);
     cleanDetectedLetters();
 }
 
