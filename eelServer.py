@@ -10,12 +10,10 @@ from ultralytics import YOLO
 from classes import classColors, classNames
 
 cap = cv2.VideoCapture(0)
-model = YOLO("runs/detect/Everest1.3/weights/best.pt", verbose=False)
+model = YOLO("runs/detect/Everest1.4/weights/best.pt", verbose=False)
 model.cuda()
 
 last_detection_time = {}  # Un diccionario para rastrear el tiempo de la última detección de cada clase
-
-
 
 
 def start_server():
@@ -26,7 +24,7 @@ def start_server():
 # Initialize counter variable
 
 def process():
-    time.sleep(5)
+    time.sleep(10)
     counter = 0
 
     # Start time
@@ -66,10 +64,10 @@ def process():
         # Calculate elapsed time
         elapsed_time = time.time() - start_time
 
-        response = {'message': 'Image processed successfully', 'predictions_image': encoded_img_base64, 'detectedClasses': detectedClasses, 'elapsedTime': elapsed_time}
+        response = {'message': 'Image processed successfully', 'predictions_image': encoded_img_base64,
+                    'detectedClasses': detectedClasses, 'elapsedTime': elapsed_time}
 
         eel.fetchImage(response)()
-
 
 
 thread = threading.Thread(target=start_server)
