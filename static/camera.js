@@ -20,11 +20,10 @@ function cleanDetectedLetters() {
 
 // Función para procesar el array JSON recibido desde el backend
 eel.expose(fetchImage);
-function fetchImage(data) {
-    const dataURL = "data:image/jpeg;base64," + data.predictions_image;
+// Función para procesar el array JSON recibido desde el backend
+function fetchImage(jsonData) {
+    const dataURL = "data:image/jpeg;base64," + jsonData.predictions_image;
     predictionsImage.src = dataURL;
-    const jsonData = data.detectedClasses;
-    const fps = data.fps;
     // Verificar si se detectaron nuevas letras o actualizar el tiempo para las existentes
     jsonData.detectedClasses.forEach(letter => {
         const existingLetterIndex = detectedLetters.findIndex(obj => obj.letter === letter);
