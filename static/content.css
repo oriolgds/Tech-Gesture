@@ -33,14 +33,12 @@ background-color: #e6e6e6;
 	border-radius: 10px;
 	margin-top: 27px;
 	background: rgba(15,15,15,0.05);
--webkit-backdrop-filter: blur(50px);
-backdrop-filter: blur(50px);
-padding: 5px 10px;
-overflow-y: auto;
-text-align: left;
-
-
-	
+	-webkit-backdrop-filter: blur(50px);
+	backdrop-filter: blur(50px);
+	padding: 5px 10px;
+	overflow-y: auto;
+	text-align: left;
+	font-size: 26px;	
 }
 #prediction-container {
 	width: 100%;
