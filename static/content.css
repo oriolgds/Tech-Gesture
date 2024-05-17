@@ -29,7 +29,6 @@ background-color: #e6e6e6;
 	position: relative;
 	height: 60px;
 	background-color: #e2e2e2;
-	width: 100%;
 	border-radius: 10px;
 	margin-top: 27px;
 	background: rgba(15,15,15,0.05);
@@ -39,7 +38,20 @@ background-color: #e6e6e6;
 	overflow-y: auto;
 	text-align: left;
 	font-size: 26px;	
+	outline: none;
 }
 #prediction-container {
 	width: 100%;
+}
+
+#space-count {
+	position: fixed;
+	bottom: 0;
+	right: 0;
+}
+#wrap-text-button {
+	position: fixed;
+	top: 5px;
+	left: 5px;
+	border-radius: 15px;
 }
