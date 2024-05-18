@@ -6,4 +6,9 @@ from classes import classColors, classNames
 
 cap = cv2.VideoCapture(0)
 model = YOLO("runs/best.pt", verbose=False)
-model.cuda()
+#model.cuda()
+
+def start_server():
+    eel.init('static')
+    eel.start('index.html', size=(1000, 600))
+

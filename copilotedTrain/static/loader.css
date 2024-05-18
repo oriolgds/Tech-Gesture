@@ -1,0 +1,46 @@
+
+#loader {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background-color: #212121;
+	display: flexbox;
+	align-items: center;
+	align-content: center;
+	text-align: center;
+	justify-content: center;
+	color: #e2e2e2;
+	flex-wrap: wrap;
+}
+#loader.hide {
+	animation-name: loader-disapear;
+	animation-duration: 1s;
+	animation-fill-mode: forwards;
+}
+#loader h1 {
+	text-align: center;
+	font-size: 140px;
+}
+#loader h4 {
+	font-size: 16px;
+	margin: 0px 15px;
+	margin-bottom: 10px;
+	font-weight: 300;
+	
+}
+
+@keyframes loader-disapear {
+	from {
+		transform: translateY(0%);
+		opacity: 1;
+	}
+	60% {
+		opacity: 1;
+	}
+	to {
+		transform: translateY(100%);
+		opacity: 0;
+	}
+}
