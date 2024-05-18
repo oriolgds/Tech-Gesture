@@ -1,5 +1,5 @@
 const predictionsImage = document.getElementById('predictions-show');
-
+const spaceCountSpan = document.getElementById('space-count')
 // Array para almacenar las letras detectadas
 let detectedLetters = [];
 
@@ -23,6 +23,7 @@ setInterval(() => {
         showInSubtitles(' ');
         spaceCount = 0;
     }
+    spaceCountSpan.innerHTML = spaceCount;
     previousLettersDetected.forEach(letter => {
         if(detectedLetters.includes(letter)){
             showInSubtitles(letter);
