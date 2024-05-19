@@ -1,5 +1,4 @@
-import whisper
+import cv2
+import eel
+import subprocess
 
-model = whisper.load_model("base")
-result = model.transcribe("whisper/cs.mp3")
-print(result["text"])
