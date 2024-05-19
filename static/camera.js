@@ -39,6 +39,14 @@ function removeElements(inputArray, elementsToRemove) {
     return inputArray.filter(item => !elementsToRemove.includes(item));
 }
 
+document.addEventListener('load', ()=>{    
+    setTimeout(() => {
+        
+        document.getElementById('loader').classList.add('hide')
+    }, 1000);
+})
+eel.start_process();
+
 
 
 

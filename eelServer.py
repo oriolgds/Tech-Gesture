@@ -16,14 +16,19 @@ last_detection_time = {}  # Un diccionario para rastrear el tiempo de la última
 
 
 def start_server():
+    @eel.expose
+    def start_process():
+        process()
     eel.init('static')
     eel.start('index.html', size=(1000, 600))
 
 
 # Initialize counter variable
 
+
+
+
 def process():
-    time.sleep(10)
     counter = 0
 
     # Start time
@@ -69,7 +74,6 @@ def process():
         eel.fetchImage(response)()
 
 
-thread = threading.Thread(target=start_server)
-thread.start()
+serverThread = threading.Thread(target=start_server)
+serverThread.start()
 
-process()

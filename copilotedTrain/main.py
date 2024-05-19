@@ -26,6 +26,21 @@ server = threading.Thread(target=start_server).start()
 
 @eel.expose
 def start_send_camera_image():
+    cameraThread = threading.Thread(target=camera_image).start()
+
+
+def camera_image():
+    while True:
+        success, frame = cap.read()
+        _, img_encoded = cv2.imencode('.jpg', frame)
+        encoded_img_base64 = base64.b64encode(img_encoded.tobytes()).decode('utf-8')
+
+        # Increment counter
+
+        response = {'predictions_image': encoded_img_base64}
+
+        eel.camera_image(response)()
+def camera_image_model():
     while True:
         success, frame = cap.read()
         results = model(frame, stream=True)
