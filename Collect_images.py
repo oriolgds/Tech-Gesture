@@ -26,7 +26,7 @@ IMAGES_PATH = 'datasets/coco/images'
 
 #abecedary = "dfwkxsghrui"
 #labels = [*abecedary]
-labels = ['h']
+labels = ['guerra']
 #labels.append('escribir')
 #labels.append('querer')
 #labels.append('techgesture')
