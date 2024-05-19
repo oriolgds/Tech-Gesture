@@ -12,6 +12,8 @@ import time
 import uuid
 import sys
 
+import classes
+
 # ## Setting up the path
 
 # In[2]:
@@ -26,16 +28,17 @@ IMAGES_PATH = 'datasets/coco/images'
 
 #abecedary = "dfwkxsghrui"
 #labels = [*abecedary]
-labels = ['guerra']
+labels = classes.classNames
+labels.remove('AMANECER')
 #labels.append('escribir')
 #labels.append('querer')
 #labels.append('techgesture')
 #labels = ['angustia', 'bronze']
 #labels = ['techgesture']
 print(labels)
-number_imgs = 100
-waitTime = 200
-firstWaitTime = 1000
+number_imgs = 5
+waitTime = 1000
+firstWaitTime = 3000
 
 # ### Useful functions
 
@@ -66,6 +69,7 @@ cap = cv2.VideoCapture(0)
 
 
 for label in labels:
+    label = label.lower()
     while True:
         ret, frame = cap.read()
         cv2.putText(frame, 'Collecting for {}'.format(label), (0, 50), cv2.FONT_HERSHEY_SIMPLEX, 1, (0, 0, 0), 2,
