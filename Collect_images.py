@@ -37,8 +37,8 @@ labels = [*abecedary]
 #labels = ['techgesture']
 print(labels)
 number_imgs = 15
-waitTime = 1000
-firstWaitTime = 3000
+waitTime = 0.3
+firstWaitTime = 3
 
 
 # ### Useful functions
@@ -93,13 +93,14 @@ for label in labels:
             break
 
     print('Collecting images for {}'.format(label))
-    cv2.waitKey(firstWaitTime)
+    time.sleep(firstWaitTime)
     for imgnum in range(number_imgs):
         ret, frame = cap.read()
         timestamp = time.time()
         imgname = os.path.join(IMAGES_PATH, label + '.' + '{}.jpg'.format(str(timestamp)))
         print(imgname)
-        cv2.waitKey(waitTime)
+        cv2.imshow('frame', frame)
+        time.sleep(waitTime)
         cv2.imshow('frame', frame)
         cv2.imwrite(imgname, frame)
 
