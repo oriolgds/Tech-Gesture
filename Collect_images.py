@@ -27,16 +27,16 @@ IMAGES_PATH = 'datasets/coco/images'
 # In[3]:
 
 
-abecedary = "vkucopms"
-labels = [*abecedary]
+#abecedary = "vkucopms"
+#labels = [*abecedary]
 
-#labels.append('escribir')
+#labels.append('guerra')
 #labels.append('querer')
 #labels.append('techgesture')
-#labels = ['angustia', 'bronze']
+labels = ['guerra']
 #labels = ['techgesture']
 print(labels)
-number_imgs = 15
+number_imgs = 50
 waitTime = 0.3
 firstWaitTime = 3
 
