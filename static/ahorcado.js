@@ -22,9 +22,9 @@ const palabras = [
     "Aventura",
     "Familia"
 ];
-const palabra = palabras[Math.floor(Math.random() * palabras.length)];
+const palabra = palabras[Math.floor(Math.random() * palabras.length)].toUpperCase();
 // Palabra a adivinar
-
+console.log('Palabra: ',palabra[0].toUpperCase() + palabra.slice(1).toLowerCase())
 
 // Lista de letras introducidas por el usuario
 let letrasIntroducidas = [];
@@ -33,7 +33,7 @@ let letrasIntroducidas = [];
 function actualizarJuego() {
     let display = "";
     let letrasIncorrectas = [];
-
+    
     // Recorrer cada letra de la palabra
     for (let i = 0; i < palabra.length; i++) {
         if (letrasIntroducidas.includes(palabra[i])) {
@@ -49,22 +49,23 @@ function actualizarJuego() {
             letrasIncorrectas.push(letra);
         }
     }
-
-    return { display, letrasIncorrectas };
+    return {'display': display, 'incorrectDisplay': letrasIncorrectas };
 }
 
 // Ejemplo de uso
 const ahorcadoResult = document.getElementById('ahorcado-result');
 const ahorcadoResultIncorrect = document.getElementById('ahorcado-incorrect-letters');
 const showInAhorcado = (letter)=>{
-	if(!(letrasIntroducidas.includes(letter))){
+	if(!(letrasIntroducidas.includes(letter)) && letter != ' '){
 		letrasIntroducidas.push(letter);
 	}
 	display();
 }
 const display = ()=>{
-	let display, incorrectDisplay = actualizarJuego();
+    const juego = actualizarJuego();
+	let display = juego.display;
+	let incorrectDisplay = juego.incorrectDisplay;
 	ahorcadoResult.innerHTML = display;
-	ahorcadoResultIncorrect = incorrectDisplay;
+	ahorcadoResultIncorrect.innerHTML = incorrectDisplay;
 }
 display();

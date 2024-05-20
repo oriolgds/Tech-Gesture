@@ -26,17 +26,16 @@ IMAGES_PATH = 'datasets/coco/images'
 # In[3]:
 
 
-#abecedary = "dfwkxsghrui"
-#labels = [*abecedary]
-labels = classes.classNames
-labels.remove('AMANECER')
+abecedary = "vkucopms"
+labels = [*abecedary]
+
 #labels.append('escribir')
 #labels.append('querer')
 #labels.append('techgesture')
 #labels = ['angustia', 'bronze']
 #labels = ['techgesture']
 print(labels)
-number_imgs = 5
+number_imgs = 15
 waitTime = 1000
 firstWaitTime = 3000
 
