@@ -7,11 +7,14 @@ let detectedLetters = [];
 eel.expose(fetchImage);
 // Función para procesar el array JSON recibido desde el backend
 function fetchImage(jsonData) {
+    
     const dataURL = "data:image/jpeg;base64," + jsonData.predictions_image;
     predictionsImage.src = dataURL;
     // Verificar si se detectaron nuevas letras o actualizar el tiempo para las existentes
     detectedLetters = jsonData.detectedClasses;
     // checkLetters(jsonData.detectedClasses);
+
+    removeLoader();
 }
 
 
@@ -46,6 +49,13 @@ document.addEventListener('load', ()=>{
     }, 1000);
 })
 eel.start_process();
+
+let loaderRemoved = false;
+function removeLoader(){
+    if(loaderRemoved) return;
+    document.getElementById('loader').classList.add('hide');
+    loaderRemoved = true;
+}
 
 
 

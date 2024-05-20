@@ -16,9 +16,6 @@ last_detection_time = {}  # Un diccionario para rastrear el tiempo de la última
 
 
 def start_server():
-    @eel.expose
-    def start_process():
-        process()
     eel.init('static')
     eel.start('index.html', size=(1000, 600))
 
@@ -26,6 +23,9 @@ def start_server():
 # Initialize counter variable
 
 
+@eel.expose
+def start_process():
+    process()
 
 
 def process():
@@ -76,4 +76,3 @@ def process():
 
 serverThread = threading.Thread(target=start_server)
 serverThread.start()
-
