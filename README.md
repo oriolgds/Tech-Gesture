@@ -6,9 +6,7 @@
 ```
 pip install ultralytics openai-whisper jupyter opencv-contrib-python labelme labelme2yolo streamlit cryptography eel
 ```
-```
-python -m pip install "kivy[base]" kivy_examples
-```
+
 ### ¿Qué hace cada archivo??
 * Collect_images.py sirve para capturar imagenes
    (Se guardan en el directorio datasets/coco/images). Puedes cambiar la variable abecedario, el numero de imagenes y el tiempo de espera entre cada captura

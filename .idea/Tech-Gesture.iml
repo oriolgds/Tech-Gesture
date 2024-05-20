@@ -1,8 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
-    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/datasets/coco/labels/YOLODataset" />
+      <excludeFolder url="file://$MODULE_DIR$/runs/detect/Cherry1.0/weights" />
+      <excludeFolder url="file://$MODULE_DIR$/runs/detect/Everest" />
+      <excludeFolder url="file://$MODULE_DIR$/runs/detect/Everest1" />
+      <excludeFolder url="file://$MODULE_DIR$/runs/detect/Everest1.1" />
+      <excludeFolder url="file://$MODULE_DIR$/runs/detect/Everest1.10" />
+      <excludeFolder url="file://$MODULE_DIR$/runs/detect/Everest1.11" />
+      <excludeFolder url="file://$MODULE_DIR$/runs/detect/Everest1.2" />
+      <excludeFolder url="file://$MODULE_DIR$/runs/detect/Everest1.3" />
+      <excludeFolder url="file://$MODULE_DIR$/runs/detect/Everest1.4" />
+      <excludeFolder url="file://$MODULE_DIR$/runs/detect/Everest1.5" />
+      <excludeFolder url="file://$MODULE_DIR$/runs/detect/Everest1.6" />
+      <excludeFolder url="file://$MODULE_DIR$/runs/detect/Everest1.7" />
+      <excludeFolder url="file://$MODULE_DIR$/runs/detect/Everest1.8" />
+      <excludeFolder url="file://$MODULE_DIR$/runs/detect/Everest1.9" />
+      <excludeFolder url="file://$MODULE_DIR$/runs/detect/Everest2.0" />
+      <excludeFolder url="file://$MODULE_DIR$/runs/detect/Everest2.1" />
+      <excludeFolder url="file://$MODULE_DIR$/runs/detect/Sausage1.1/weights" />
+      <excludeFolder url="file://$MODULE_DIR$/runs/detect/Sausage1.2/weights" />
+      <excludeFolder url="file://$MODULE_DIR$/runs/detect/Sausage1.3/weights" />
+      <excludeFolder url="file://$MODULE_DIR$/runs/detect/Sausage1.4/weights" />
+      <excludeFolder url="file://$MODULE_DIR$/runs/detect/Sausage1.5/weights" />
+      <excludeFolder url="file://$MODULE_DIR$/runs/detect/Sausage1.6" />
+      <excludeFolder url="file://$MODULE_DIR$/runs/detect/val" />
+      <excludeFolder url="file://$MODULE_DIR$/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Include" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Library" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Scripts" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/etc" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/share" />
+    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="PyDocumentationSettings">
+    <option name="format" value="PLAIN" />
+    <option name="myDocStringFormat" value="Plain" />
   </component>
 </module>
