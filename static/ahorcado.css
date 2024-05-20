@@ -1,0 +1,12 @@
+#ahorcado-display {
+	height: 120px;
+	text-align: center;
+}
+#ahorcado-result {
+	letter-spacing: 10px;
+	font-size: 40px;
+	text-align: center;
+}
+#ahorcado-incorrect-letters {
+	color: red;
+}

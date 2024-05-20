@@ -6,7 +6,9 @@ const showInSubtitles = (letter)=>{
 	if(html[html.length - 1] == letter){
 		return;
 	}
+	if(letter.length === 1) showInAhorcado(letter);
 	if(letter.length > 1) letter += " ";
+
 	html.push(letter);
 	subtitles.innerHTML = html.join('').trim();
 	subtitles.scrollTop = subtitles.scrollHeight;

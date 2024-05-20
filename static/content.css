@@ -25,9 +25,9 @@ background-color: #e6e6e6;
 	top: 12px;
 	right: 12px;
 }
-#subtitles {
-	position: relative;
-	height: 60px;
+#subtitles, #ahorcado-display {
+	
+	
 	background-color: #e2e2e2;
 	border-radius: 10px;
 	margin-top: 27px;
@@ -39,6 +39,10 @@ background-color: #e6e6e6;
 	text-align: left;
 	font-size: 26px;	
 	outline: none;
+}
+#subtitles {
+	position: relative;
+	height: 60px;
 }
 #prediction-container {
 	width: 100%;
