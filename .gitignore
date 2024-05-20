@@ -1,5 +1,5 @@
 ./runs/
-.idea
+.idea/
 datasets/coco/labels/YOLODataset/
 */__pycache__/*
 *.pt
