@@ -11,6 +11,7 @@ import os
 import time
 import uuid
 import sys
+import threading
 
 import classes
 
@@ -39,6 +40,7 @@ number_imgs = 15
 waitTime = 1000
 firstWaitTime = 3000
 
+
 # ### Useful functions
 
 # In[4]:
@@ -62,10 +64,22 @@ create_dir(IMAGES_PATH)
 
 cap = cv2.VideoCapture(0)
 
+
 # ### Capture code
 
 # In[7]:
+def camera_window():
+    while True:
+        ret, frame = cap.read()
+        cv2.imshow('Camera', frame)
+        if cv2.waitKey(1) == ord('w'):
+            break
+    cap.release()
+    cv2.destroyAllWindows()
 
+
+camera_thread = threading.Thread(target=camera_window)
+camera_thread.start()
 
 for label in labels:
     label = label.lower()

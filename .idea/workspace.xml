@@ -1,8 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;last_opened_file_path&quot;: &quot;C:/Github&quot;
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3b0f92a8-837a-4aa1-a4b4-70cbca2b9384" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collect_images.py" beforeDir="false" afterPath="$PROJECT_DIR$/Collect_images.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ahorcado/ahorcado.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ahorcado/static/assets/Logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ahorcado/static/assets/eee.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ahorcado/static/assets/placeholder.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ahorcado/static/camera.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ahorcado/static/content.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ahorcado/static/display.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ahorcado/static/fonts.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ahorcado/static/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ahorcado/static/loader.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ahorcado/static/subtitles.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ahorcado/static/video.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/copilotedTrain/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/copilotedTrain/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "oriolgds"
   }
-}</component>
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/oriolgds/Tech-Gesture.git",
+    "accountId": "f36f2896-2fcd-4e11-b59a-39329da0022f"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2gjtFgzz9Tl73G7wmYSv7LjaC4d" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Collect_images.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Github"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3b0f92a8-837a-4aa1-a4b4-70cbca2b9384" name="Changes" comment="" />
+      <created>1716222714113</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716222714113</updated>
+    </task>
+    <servers />
+  </component>
 </project>

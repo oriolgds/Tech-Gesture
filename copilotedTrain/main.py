@@ -11,7 +11,7 @@ from classes import classColors, classNames
 
 cap = cv2.VideoCapture(0)
 cap.read()
-model = YOLO("../runs/best.pt", verbose=False)
+model = YOLO("runs/detect/Everest2.1/weights/best.pt", verbose=False)
 
 
 #model.cuda()

@@ -5,3 +5,4 @@ datasets/coco/labels/YOLODataset/
 *.pt
 /runs
 /runs/
+*.zip*
