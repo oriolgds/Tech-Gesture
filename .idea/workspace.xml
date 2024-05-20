@@ -6,13 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3b0f92a8-837a-4aa1-a4b4-70cbca2b9384" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collect_images.py" beforeDir="false" afterPath="$PROJECT_DIR$/Collect_images.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eelServer.py" beforeDir="false" afterPath="$PROJECT_DIR$/eelServer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ahorcado.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/ahorcado.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/camera.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/camera.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/loader.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/loader.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/subtitles.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/subtitles.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
