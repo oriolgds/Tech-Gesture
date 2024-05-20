@@ -6,3 +6,5 @@ datasets/coco/labels/YOLODataset/
 /runs
 /runs/
 *.zip*
+/.idea
+/__pycache__

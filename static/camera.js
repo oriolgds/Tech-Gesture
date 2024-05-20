@@ -48,15 +48,17 @@ document.addEventListener('load', ()=>{
         document.getElementById('loader').classList.add('hide')
     }, 1000);
 })
-eel.start_process();
+
 
 let loaderRemoved = false;
 function removeLoader(){
     if(loaderRemoved) return;
     document.getElementById('loader').classList.add('hide');
+    setTimeout(() => {
+        document.getElementById('loader').style.display = 'none';
+    }, 1500);
     loaderRemoved = true;
 }
-
 
 
 

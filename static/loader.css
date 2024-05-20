@@ -19,7 +19,6 @@
 #loader.hide {
 	animation-name: background-loader, disapear-loader;
 	animation-duration: 1s, 1.5s;
-	animation-delay: 0s, 6s;
 	animation-iteration-count: infinite, 1;
 	animation-fill-mode: forwards, forwards;
 }
