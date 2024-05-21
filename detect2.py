@@ -14,7 +14,7 @@ import math
 cap = cv2.VideoCapture(0)
 
 # model
-model = YOLO("runs/detect/Everest2.1/weights/best.pt", verbose=False)
+model = YOLO("runs/detect/Everest3/weights/best.pt", verbose=False)
 #model.cuda()
 
 # object classes
