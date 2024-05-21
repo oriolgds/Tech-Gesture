@@ -33,7 +33,7 @@ labels = [*abecedary]
 #labels.append('guerra')
 #labels.append('querer')
 #labels.append('techgesture')
-labels = ['guerra']
+labels = ['paz']
 #labels = ['techgesture']
 print(labels)
 number_imgs = 50
