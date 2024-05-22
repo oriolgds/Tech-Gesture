@@ -8,8 +8,6 @@ const palabras = [
     "Gato",
     "Silla",
     "Mesa",
-    "Niña",
-    "Niño",
     "Risa",
     "Cielo",
     "Verde",
