@@ -1,25 +1,34 @@
+// const palabras = [
+//     "Sol",
+//     "Mar",
+//     "Amor",
+//     "Casa",
+//     "Luna",
+//     "Nube",
+//     "Gato",
+//     "Silla",
+//     "Mesa",
+//     "Risa",
+//     "Cielo",
+//     "Verde",
+//     "Blanco",
+//     "Mano",
+//     "Rayo",
+//     "Mapa",
+//     "Miel",
+//     "Caminata",
+//     "Aventura",
+//     "Familia"
+// ];
 const palabras = [
-    "Sol",
-    "Mar",
-    "Amor",
-    "Casa",
-    "Luna",
-    "Nube",
-    "Gato",
-    "Silla",
-    "Mesa",
-    "Risa",
-    "Cielo",
-    "Verde",
-    "Blanco",
-    "Mano",
-    "Rayo",
-    "Mapa",
-    "Miel",
-    "Caminata",
-    "Aventura",
-    "Familia"
-];
+    'inclusion',
+    'libertad',
+    'igualdad',
+    'sostenibilidad',
+    'educacion',
+    'salud',
+    'bienestar'
+]
 const palabra = palabras[Math.floor(Math.random() * palabras.length)].toUpperCase();
 // Palabra a adivinar
 console.log('Palabra: ',palabra[0].toUpperCase() + palabra.slice(1).toLowerCase())
