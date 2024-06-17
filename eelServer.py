@@ -9,7 +9,7 @@ from ultralytics import YOLO
 
 from classes import classColors, classNames
 
-cap = cv2.VideoCapture(1)
+cap = cv2.VideoCapture(0)
 model = YOLO("runs/detect/Everest3/weights/best.pt", verbose=False)
 
 last_detection_time = {}  # Un diccionario para rastrear el tiempo de la última detección de cada clase
