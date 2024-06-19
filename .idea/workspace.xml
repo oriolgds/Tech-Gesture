@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b0f92a8-837a-4aa1-a4b4-70cbca2b9384" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Tech-Gesture.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Tech-Gesture.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/detect2.py" beforeDir="false" afterPath="$PROJECT_DIR$/detect2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eelServer.py" beforeDir="false" afterPath="$PROJECT_DIR$/eelServer.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,9 +51,15 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Github&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ogine/Documents/GitHub/Tech-Gesture&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ogine\Documents\GitHub\Tech-Gesture\runs\detect" />
+      <recent name="C:\Users\ogine\Documents\GitHub\Tech-Gesture" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
