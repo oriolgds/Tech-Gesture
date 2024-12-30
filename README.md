@@ -1,5 +1,6 @@
 # Tech Gesture
-
+### Descrición
+Tech Gesture es un modelo de IA quee gracias a la Computer Vision (CV) traduce todo el alfabeto dactológico de la LSE
 ### Sigue estos pasos
 1. Este proyecto usa Python 3.11 (Virtual venv recomendado)
 2. Instala las dependencias necesarias
